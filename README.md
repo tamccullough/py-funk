@@ -11,3 +11,5 @@ Loading up and searching through notebooks can be a little tedious when you just
 So, to avoid doing that, the above link points to a google doc I have shared in my drive. I feel like this is a faster way to access code I have written - relating to functions - that can speed up my own process of writing new code.
 
 It may help you too.
+
+I will add more notebooks as time goes by, and edit all of them as I see fit, to make them as helpful and as easy to use as possible.
