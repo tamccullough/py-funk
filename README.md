@@ -1,3 +1,5 @@
+![python funk](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/A_Green_Tree_Python.jpg/800px-A_Green_Tree_Python.jpg)
+
 ## py-funk is a work in progress
 
 I am new to Machine Learning, and what I have found during my short journey is that there is a vast array of content on the subject matter. And this vast amount of content can be quite overwhelming to the newcomer.
